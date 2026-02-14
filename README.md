@@ -6,6 +6,7 @@ This project focuses on the modernization of traditional Interactive Voice Respo
 
 Objectives:
 
+
 To study the architecture and workflow of legacy IVR systems
 
 To identify limitations of traditional menu-driven IVR platforms
@@ -15,6 +16,7 @@ To document integration requirements for ACS and BAP
 To analyze technical challenges and compatibility gaps
 
 To define a modernization approach with minimal rework of legacy systems 
+
 
 
 
@@ -34,6 +36,7 @@ Low personalization and adaptability
 
 
 
+
 Integration Requirements (ACS & BAP):
 
 -> Azure Communication Services (ACS): 
@@ -45,6 +48,7 @@ Media streaming and call control
 DTMF support for backward compatibility
 
 Failover and fallback routing
+
 
 
 -> Bot Application Platform (BAP):
@@ -61,6 +65,7 @@ Human agent escalation
 
 
 
+
 Security and Compliance Considerations:
 
 Secure communication between ACS, BAP, and backend systems
@@ -72,6 +77,7 @@ Role-based access control
 Logging and audit trails
 
 Compliance with data protection regulations
+
 
 
 
